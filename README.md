@@ -1,7 +1,6 @@
 - Hi, I’m @rakhazufar
 - I’m interested in Front-end Web Development
-- I’m currently learning React.js
-- I’m looking to collaborate on development web, especially front-end
+- Porto: rakhazufar.web.app
 - You can reach me with send email to rakhazufar1@gmail.com
 
 <!---
