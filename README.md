@@ -1,6 +1,4 @@
-# [Nama Anda]'s GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakhazufar&show_icons=true&hide_border=true&theme=dark)
+# Rakha Zufar
 
 ## Connect with me
 
